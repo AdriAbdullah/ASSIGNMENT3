@@ -4,7 +4,7 @@ document.getElementById("greetBtn").addEventListener("click", function () {
     const greetingDiv = document.getElementById("greeting");
     greetingDiv.textContent = `Hello, ${name}! Welcome to my page!`;
     greetingDiv.style.opacity = 1;
-    greetingDiv.style.color = "#4caf50";
-    greetingDiv.style.fontSize = "24px";
+    greetingDiv.style.color = "#990f42";
+    greetingDiv.style.fontSize = "30px";
   }
 });
