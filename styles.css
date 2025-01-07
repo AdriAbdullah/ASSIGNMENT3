@@ -9,7 +9,7 @@ body {
 
 /* Header Styles */
 header {
-  background-color: #4caf50;
+  background-color:#990f42;
   color: white;
   padding: 10px;
   text-align: center;
@@ -59,7 +59,7 @@ button:hover {
 
 /* Footer Styles */
 footer {
-  background-color: #4caf50;
+  background-color: #990f42;
   color: white;
   text-align: center;
   padding: 10px;
